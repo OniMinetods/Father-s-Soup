@@ -1,0 +1,32 @@
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Файлы IDE
+.idea/
+.vscode/
+
+# Виртуальные окружения
+venv/
+.venv/
+
+# Файлы кэша и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Файлы базы данных
+db.sqlite3
+*.sqlite3
+
+# Файлы секретов
+*.env
+
+# Файлы логов
+*.log
+
+# Файлы временных файлов
